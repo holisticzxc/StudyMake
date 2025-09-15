@@ -1,0 +1,6 @@
+*.o
+program
+*.exe
+a.out
+*.d
+core
