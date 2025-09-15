@@ -1,0 +1,9 @@
+kazino
+kazino-dbg
+*.o
+*.exe
+a.out
+core
+*.save
+*.swp
+*~
